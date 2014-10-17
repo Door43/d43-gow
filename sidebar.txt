@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gow:home|Door43 (gow)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gow|d43-gow repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gow/archive/master.zip|d43-gow.zip]]
+
+**Recent Changes**
+{{changes>ns = gow}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gow|Ethnologue data]]
+
